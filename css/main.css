@@ -4,26 +4,25 @@
   --nav-font: "Inter",  sans-serif;
 }
 :root { 
-  --background-color: #FADCCA; /* Background color for the entire website, including individual sections */
-  --default-color: #260003; /* Default color used for the majority of the text content across the entire website */
-  --heading-color: #260003; /* Color for headings, subheadings and title throughout the website */
-  --accent-color: #AC6640; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
-  --surface-color: #541E01; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
-  --contrast-color: #ffffff; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
+  --background-color: #FADCCA; 
+  --default-color: #260003; 
+  --heading-color: #260003;
+  --accent-color: #AC6640;
+  --surface-color: #541E01; 
+  --contrast-color: #ffffff;
 }
 :root {
-  --nav-color: #260003;  /* The default color of the main navmenu links */
-  --nav-hover-color: #ce1212; /* Applied to main navmenu links when they are hovered over or active */
-  --nav-mobile-background-color: #ffffff; /* Used as the background color for mobile navigation menu */
-  --nav-dropdown-background-color: #ffffff; /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
-  --nav-dropdown-color: #260003; /* Used for navigation links of the dropdown items in the navigation menu. */
-  --nav-dropdown-hover-color: #ce1212; /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
+  --nav-color: #260003; 
+  --nav-hover-color: #ce1212; 
+  --nav-mobile-background-color: #ffffff; 
+  --nav-dropdown-background-color: #ffffff;
+  --nav-dropdown-color: #260003; 
+  --nav-dropdown-hover-color: #ce1212;
 }
 .light-background {
   --background-color: #f2f2f2;
   --surface-color: #ffffff;
 }
-
 .dark-background {
   --background-color: #541E01;
   --default-color: #ffffff;
